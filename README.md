@@ -56,7 +56,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/random-advice-generator-made-with-vuejs-hPbUw5eNlx)
 - Live Site URL: [Live Site](https://my-random-advice.netlify.app/)
 
 ## My process
